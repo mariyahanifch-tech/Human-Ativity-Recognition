@@ -1,1 +1,11 @@
 https://ieeexplore.ieee.org/abstract/document/10892156
+<br>
+The main contributions of this paper include addressing
+the critical issue of class imbalance in the dataset, which
+affects the accuracy of human activity recognition models.
+- To overcome this challenge, we employed three class
+balancing techniques: SMOTE, LoRAS, and ProWRA.
+- Our comprehensive evaluation of these methods across
+multiple machine learning models highlights their potential in enhancing model performance. This study emphasizes the importance of addressing class imbalance for
+effective human activity recognition.
+
